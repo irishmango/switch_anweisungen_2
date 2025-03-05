@@ -1,6 +1,6 @@
 enum Sex {male, female}
 
-void mein() {
+void main() {
 Sex sex = Sex.male;
 int age = 25;
 
